@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'ym Status',
+  SiteName: 'YM Status',
 
   // 站点链接
   SiteUrl: '/',
